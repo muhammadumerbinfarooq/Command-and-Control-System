@@ -11,7 +11,7 @@ A command and control system built using Laravel, featuring user authentication,
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/muhammadumermemon/Command-and-Control-System.git`
+1. Clone the repository using `git clone https://github.com/muhammadumerbinfarooq/Command-and-Control-System.git`
 2. Run `composer install` to install the dependencies
 3. Run `php artisan migrate` to create the database tables
 4. Run `php artisan serve` to start the development server
